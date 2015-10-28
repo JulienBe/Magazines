@@ -32,7 +32,7 @@ A mix of articles centered on software development. I have heard good things abo
 
 ### Offscreen 
 
-*Not very technical. If we want something more relaxing *
+*Not very technical. If we want something more relaxing*
 
 http://www.offscreenmag.com
 
