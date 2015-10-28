@@ -8,9 +8,13 @@ Very interesting but more oriented on the client side.
 
 117€ for 12 issues printed + digital
 
-## Linux Magazine - 
+## Linux Magazine - That's the one I would pick 
 
 http://www.linux-magazine.com/
+
+Yes it says Linux in the title but the topics are pretty broad (security, cloud, apache, openstack, ..)
+
+65€ for 12 printed issues. 80 with the (fluffy) dvd
 
 # Dev
 
