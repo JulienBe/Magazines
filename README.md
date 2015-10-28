@@ -1,13 +1,5 @@
 # Linux 
 
-## Linux Voice
-
-www.linuxvoice.com
-
-Very interesting but more oriented on the client side. 
-
-117€ for 12 issues printed + digital (!)
-
 ## Linux Magazine
 
 *Julien : That's the best choice I think*
@@ -17,6 +9,14 @@ http://www.linux-magazine.com/
 Yes it says Linux in the title but the topics are pretty broad (security, cloud, apache, openstack, ..)
 
 65€ only for 12 printed issues. 80 with the (fluffy) dvd
+
+## Linux Voice
+
+www.linuxvoice.com
+
+Very interesting but more oriented on the client side. 
+
+117€ for 12 issues printed + digital (!)
 
 # Dev
 
