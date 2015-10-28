@@ -1,6 +1,6 @@
 # Linux 
 
-## Linux Magazine
+### Linux Magazine
 
 *Julien : That's the best choice I think*
 
@@ -10,7 +10,7 @@ Yes it says Linux in the title but the topics are pretty broad (security, cloud,
 
 65€ only for 12 printed issues. 80 with the (fluffy) dvd
 
-## Linux Voice
+### Linux Voice
 
 www.linuxvoice.com
 
@@ -20,7 +20,7 @@ Very interesting but more oriented on the client side.
 
 # Dev
 
-## NFJS (no fluff just stuff)
+### NFJS (no fluff just stuff)
 
 **digital only !**
 
@@ -30,7 +30,7 @@ A mix of articles centered on software development. I have heard good things abo
 
 # Other
 
-## Offscreen - Not very technical. If we want something more relaxing 
+### Offscreen - Not very technical. If we want something more relaxing 
 
 http://www.offscreenmag.com
 
