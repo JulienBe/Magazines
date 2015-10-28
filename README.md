@@ -6,19 +6,23 @@ www.linuxvoice.com
 
 Very interesting but more oriented on the client side. 
 
-117€ for 12 issues printed + digital
+117€ for 12 issues printed + digital (!)
 
-## Linux Magazine - That's the one I would pick 
+## Linux Magazine
+
+*Julien : That's the best choice I think*
 
 http://www.linux-magazine.com/
 
 Yes it says Linux in the title but the topics are pretty broad (security, cloud, apache, openstack, ..)
 
-65€ for 12 printed issues. 80 with the (fluffy) dvd
+65€ only for 12 printed issues. 80 with the (fluffy) dvd
 
 # Dev
 
-## NFJS (no fluff just stuff) - digital only
+## NFJS (no fluff just stuff)
+
+**digital only !**
 
 A mix of articles centered on software development. I have heard good things about this one.
 
